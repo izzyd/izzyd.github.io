@@ -1,0 +1,72 @@
+#header { 
+    font-family: Helvetica, sans-serif;
+    color: darkslategrey; 
+    padding: 12px; 
+    background-color: blanchedalmond; 
+    border-bottom: 1px dashed orangered;
+
+}
+body {
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+}
+#nav {
+    font-family: Trebuchet MS, sans-serif;
+        padding: 12px; 
+}
+#hero {
+    float: right;
+    width: 520px; 
+}
+p {
+    font-family: Helvetica, sans-serif;
+    font-size: 11pt; 
+    line-height: 1.5; 
+    padding: 12px; 
+    margin: 0px; 
+    background-color: blanchedalmond; 
+}
+ul {
+    font-family: Helvetica, sans-serif;
+    font-size: 11pt; 
+    line-height: 2; 
+    background-color: blanchedalmond; 
+    margin: 0px;
+}
+#content1 {
+    float: left;
+    width: 370px;
+    margin-top: 152px;
+}
+#content2 {
+    float: left;
+    width: 370px;
+    margin-top: 240px;
+}
+#content3 {
+    float: left;
+    width: 370px;
+    margin-top: 252px;
+}
+#content4 {
+    float: left;
+    width: 370px;
+    margin-top: 152px;
+}
+#footer {
+    margin-top: 50px; 
+    border-top: 1px dashed orangered;
+    padding: 12px; 
+}
+
+
+div:nth-of-type(1) {
+  width: 97%;
+  float: left;
+}
+
+div:nth-of-type(2) {
+  width: 37%;
+  float: left;
+}
