@@ -8,7 +8,7 @@
 }
 body {
   width: 100%;
-  max-width: 900px;
+  max-width: 970px;
   margin: 0 auto;
 }
 #nav {
@@ -17,7 +17,6 @@ body {
 }
 #hero {
     float: right;
-    width: 520px; 
 }
 p {
     font-family: Helvetica, sans-serif;
@@ -35,42 +34,19 @@ ul {
     margin: 0px;
 }
 
+
 .content {
-    width: 370px;
 }
 
 .home .content {
-    width: 500px; 
-
+    
 }
-
-
 
 .work .content {
 
 }
 
 
-#content1 {
-    float: left;
-    width: 370px;
-    margin-top: 152px;
-}
-#content2 {
-    float: left;
-    width: 370px;
-    margin-top: 240px;
-}
-#content3 {
-    float: left;
-    width: 370px;
-    margin-top: 252px;
-}
-#content4 {
-    float: left;
-    width: 370px;
-    margin-top: 152px;
-}
 #footer {
     margin-top: 50px; 
     border-top: 1px dashed orangered;
