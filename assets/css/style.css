@@ -30,16 +30,18 @@ ul {
     font-family: Helvetica, sans-serif;
     font-size: 11pt; 
     line-height: 2; 
-    background-color: blanchedalmond; 
     margin: 0px;
 }
 
+.my-nav { 
+    background-color: lightblue;
+}
 
 .content {
 }
 
 .home .content {
-    
+
 }
 
 .work .content {
