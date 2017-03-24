@@ -1,0 +1,11 @@
+.bgimage {
+    background-position: center center;
+    background-size: cover;
+    height: 600px; 
+}
+@media (max-width:1440px) {
+    .img-responsive {
+        max-width: 100%;
+        min-width: 600px;
+    }
+}
